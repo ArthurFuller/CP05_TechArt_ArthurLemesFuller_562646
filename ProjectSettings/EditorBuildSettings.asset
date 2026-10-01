@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FlipbookEnergyScene.unity
-    guid: 4eefda804bb261b468d9b705c50c409d
-  - enabled: 1
     path: Assets/Scenes/FlipbookShowcaseScene.unity
     guid: 093db339be4af444d8ea8f6d43be33f7
   m_configObjects:
